@@ -23,6 +23,7 @@ markers:
   - {type: punctuation, offset: 25, content: (, id: KR2p0078_tls_001-bkkpn10}
   - {type: punctuation, offset: 25, content: '?', id: KR2p0078_tls_001-bkkpn11}
   - {type: punctuation, offset: 25, content: ), id: KR2p0078_tls_001-bkkpn12}
+  - {type: voice, offset: 25, length: 0, name: note, id: n1}
   - {type: 'tls:seg', offset: 29, content: '', id: KR2p0078_tls_001-1a.7}
   - {type: punctuation, offset: 34, content: ',', id: KR2p0078_tls_001-bkkpn13}
   - {type: 'tls:seg', offset: 34, content: '', id: KR2p0078_tls_001-1a.8}
@@ -34,6 +35,7 @@ markers:
   - {type: 'tls:seg', offset: 43, content: '', id: KR2p0078_tls_001-2a.2}
   - {type: 'tls:seg', offset: 48, content: '', id: KR2p0078_tls_001-2a.3}
   - {type: punctuation, offset: 51, content: (, id: KR2p0078_tls_001-bkkpn15}
+  - {type: voice, offset: 51, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 52, content: '?', id: KR2p0078_tls_001-bkkpn16}
   - {type: punctuation, offset: 52, content: ), id: KR2p0078_tls_001-bkkpn17}
   - {type: punctuation, offset: 53, content: ',', id: KR2p0078_tls_001-bkkpn18}
@@ -41,6 +43,7 @@ markers:
   - {type: punctuation, offset: 54, content: (, id: KR2p0078_tls_001-bkkpn19}
   - {type: punctuation, offset: 54, content: '?', id: KR2p0078_tls_001-bkkpn20}
   - {type: punctuation, offset: 54, content: ), id: KR2p0078_tls_001-bkkpn21}
+  - {type: voice, offset: 54, length: 0, name: note, id: n3}
   - {type: 'tls:seg', offset: 58, content: '', id: KR2p0078_tls_001-2a.5}
   - {type: punctuation, offset: 61, content: '[', id: KR2p0078_tls_001-bkkpn22}
   - {type: punctuation, offset: 62, content: ']', id: KR2p0078_tls_001-bkkpn23}
@@ -80,6 +83,7 @@ markers:
   - {type: punctuation, offset: 113, content: ',', id: KR2p0078_tls_001-bkkpn44}
   - {type: 'tls:seg', offset: 113, content: '', id: KR2p0078_tls_001-3a.8}
   - {type: punctuation, offset: 113, content: '[', id: KR2p0078_tls_001-bkkpn45}
+  - {type: voice, offset: 113, length: 0, name: note, id: n4}
   - {type: punctuation, offset: 117, content: ’, id: KR2p0078_tls_001-bkkpn46}
   - {type: punctuation, offset: 128, content: ',', id: KR2p0078_tls_001-bkkpn47}
   - {type: punctuation, offset: 131, content: ‘, id: KR2p0078_tls_001-bkkpn48}
@@ -104,4 +108,4 @@ markers:
   - {type: 'tls:seg', offset: 174, content: '', id: KR2p0078_tls_001-4a.8}
   - {type: xml-element, offset: 179, content: '', id: KR2p0078_tls_001-bkkxmlele8, name: p, role: close, attrs: {source: 'SHANGBO.LISONG 8.50.4 (STRIPS 1B, 2) MACHENGYUAN 8: 237, 242 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:b077a7baba3a40f8b85342339350eeb161bd21242f779aede704c639293f6b6f
+hash: sha256:85ab4e09dec9383f7818708d03d56252746c60afa91ea7a6d93a59ded05924d3
